@@ -8,6 +8,8 @@ public class oper_fixed {
         System.out.println("Subtraction " + (a - b));
         System.out.println("Multiplication " + (a * b));
         System.out.println("Division " + (a / b));
+        System.out.println("Square root" + Math.sqrt(a));
+        System.out.println("Cube root" + Math.cbrt(a));
 
     }
 
